@@ -1,4 +1,4 @@
-# BestPracticesST-images
+# BestPracticesST-resources
 
-Repository containing image files for 'Best Practices for Spatial Transcriptomics Analysis with Bioconductor' online book.
+Repository containing resources for 'Best Practices for Spatial Transcriptomics Analysis with Bioconductor' online book.
 
